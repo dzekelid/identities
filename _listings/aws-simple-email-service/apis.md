@@ -26,7 +26,7 @@ apis:
   tags: Identity
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/identity/master/_listings/aws-simple-email-service/action-listidentitypolicies-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/identity/master/_listings/aws-simple-email-service/action-putidentitypolicy-get.md
 x-common:
 - type: x-change-log
   url: http://aws.amazon.com/releasenotes/Amazon-SES
