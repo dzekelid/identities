@@ -1,10 +1,11 @@
-title: Streamdata Gallery Identity
-url: identity.streamdata.gallery
-tag: Identity
+title: Streamdata API Gallery - Identities
+description: A gallery of APIs to demonstrate what is possible when it comes to making data, content, and algorithms more real time, and event-driven as part of the API economy.
+url: identities.streamdata.gallery
+tag: Identities
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 github_user: streamdata-gallery
-github_repo: identity
+github_repo: identities
 github_branch: master
 collections:
   listings:
