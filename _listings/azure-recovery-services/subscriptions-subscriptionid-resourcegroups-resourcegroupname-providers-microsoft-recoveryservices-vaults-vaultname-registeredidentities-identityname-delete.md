@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: RecoveryServicesClient
+  title: Azure Recovery Service API Registered Identities Delete
   version: 1.0.0
+  description: Unregisters the given container from your Recovery Services vault.
 host: management.azure.com
 basePath: /
 schemes:
