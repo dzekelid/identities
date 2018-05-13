@@ -28,7 +28,28 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/azure-recovery-services/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-recoveryservices-vaults-vaultname-registeredidentities-identityname-delete.md
+- name: Azure Recovery Service API Registered Identities Delete
+  description: Unregisters the given container from your Recovery Services vault.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-site-recovery.png
+  humanURL: https://azure.microsoft.com/en-us/services/site-recovery/
+  baseURL: http:://management.azure.com//
+  tags: Identities
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/azure-recovery-services/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-recoveryservices-vaults-vaultname-registeredidentities-identityname-delete.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/azure-recovery-services/subscriptions-subscriptionid-resourcegroups-resourcegroupname-providers-microsoft-recoveryservices-vaults-vaultname-registeredidentities-identityname-delete-postman.md
 x-common:
+- type: x-documentation
+  url: https://docs.microsoft.com/en-us/azure/site-recovery/
+- type: x-pricing
+  url: https://azure.microsoft.com/en-us/pricing/details/site-recovery/
+- type: x-service-level-agreements
+  url: https://azure.microsoft.com/en-us/support/legal/sla/site-recovery/
+- type: x-status
+  url: https://azure.microsoft.com/en-us/status/
+- type: x-website
+  url: https://azure.microsoft.com/en-us/services/site-recovery/
 - type: x-documentation
   url: https://docs.microsoft.com/en-us/azure/site-recovery/
 - type: x-pricing
