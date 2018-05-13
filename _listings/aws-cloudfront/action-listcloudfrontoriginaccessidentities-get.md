@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS CloudFront API
+  title: AWS CloudFront API List Cloud Front Origin Access Identities
   version: 1.0.0
+  description: Lists origin access identities.
 schemes:
 - http
 produces:
