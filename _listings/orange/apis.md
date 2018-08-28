@@ -1,36 +1,28 @@
 ---
 name: Orange
-description: 'Orange is a French Telecommuncations industry player whose mobile carrier
-  system is prominent around Europe. nnThe Group had sales of 53.5 billion euros in
-  2008 and a customer base of 186 million customers in 30 countries at 2009, June
-  30. Orange, the Groups single brand for Internet, television and mobile services
-  in the majority of countries where the company operates, now covers more than two-thirds
-  of customers. At the end of June 2009,  the Group had 125,5 million mobile customers
-  worldwide and 13,4 million broadband internet (ADSL) customers in Europe.nnFrance
-  Telecom-Orange is the number three mobile operator and the number one provider of
-  broadband internet services in Europe and, under the brand Orange Business Services,
-  is one of the world leaders in providing telecommunication services to multinational
-  companies. nnIn August of 2009, Orange acquired Unanimis, a UK-based web advertising
-  group. '
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/368_logo.png
+x-slug: orange
+description: Orange Partner independent and professional developers to IT services
+  firms.
+image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly.png
 x-kinRank: "8"
-x-alexaRank: ""
-tags:
-- Telco
-- Stack Network
-- Identity
-created: "2018-03-10"
-modified: "2018-03-10"
-url: https://raw.githubusercontent.com/streamdata-gallery/identity/master/_listings/orange/apis.yaml
+x-alexaRank: "0"
+tags: Identities
+created: "2018-08-27"
+modified: "2018-08-27"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/orange/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/orange-partner
 - type: x-crunchbase
   url: http://www.crunchbase.com/company/orange
 - type: x-developer
   url: https://www.orangepartner.com/integrate
 - type: x-github
   url: https://github.com/orange
+- type: x-twitter
+  url: https://twitter.com/OrangePartner
 - type: x-twitter
   url: https://twitter.com/OrangeGroupPR
 - type: x-twitter

@@ -1,0 +1,869 @@
+{
+	"name": "Streadata.io API Gallery - Identities",
+	"description": "This is a repository of identities APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/identities.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://identities.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Reverb",
+			"x-api-slug": "reverb",
+			"description": "Reverb&#8217;s mission is to connect people with meaningful content.Reverb was created to find and connect the rich associations between words, ideas, content, and people. Through our products, we enhance broader knowledge around favorite topics by surfacing interesting information readers might not uncover on their own. We make tools for content understanding at every level from the single word on up. Wordnik: Get a full view of any word you???re interested in, with definitions, example sentences, related words, tweets from Twitter, pictures from Flickr, and much more.Reverb for Publishers: Reverb for Publishers brings relevant content to web audiences and surfaces additional content for publishers.Reverb for Developers: Reverb is committed to the open-source community and is proudly contributing infrastructure software to power applications and enterprises both small and gigantic. Our involvement with the Wordnik API, Scalatra, Swagger and Atmosphere is detailed on our site.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/145_logo.png",
+			"humanURL": "https://helloreverb.com/app",
+			"baseURL": "https://api.reverb.com//api",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/reverb/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Diffbot",
+			"x-api-slug": "diffbot",
+			"description": "Never write another web scraper. Diffbot automates web data extraction from any website using AI, computer vision, &amp; machine learning.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/181-diffbot.jpg",
+			"humanURL": "http://www.diffbot.com/our-apis/follow/",
+			"baseURL": "https:////",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/diffbot/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "HP",
+			"x-api-slug": "hp",
+			"description": "Learn about HP laptops, pc desktops, printers, accessories and more at the Official HP Website",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/212-hp.jpg",
+			"humanURL": "http://map.hpl.hp.com",
+			"baseURL": "https:///",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/hp/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Rackspace",
+			"x-api-slug": "rackspace",
+			"description": "Host on our dedicated or cloud infrastructure or through one of our partners. Leverage our expertise to run fast and lean. We offer web, app or email hosting, data services and managed security solutions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/241-rackspace.jpg",
+			"humanURL": "http://www.rackspace.com/",
+			"baseURL": "https:///",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/rackspace/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Xignite",
+			"x-api-slug": "xignite",
+			"description": "Financial market data on-demand. Xignite financial Web services help build smarter websites and applications in minutes with zero up-front investment.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png",
+			"humanURL": "http://www.xignite.com",
+			"baseURL": "https://www.xignite.com/xVWAP.json/XigniteVWAP",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/xignite/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Orange",
+			"x-api-slug": "orange",
+			"description": "Orange Partner independent and professional developers to IT services firms.",
+			"image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly.png",
+			"humanURL": "http://www.orangepartner.com",
+			"baseURL": "https:///",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/orange/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Atlassian",
+			"x-api-slug": "atlassian",
+			"description": "Millions of users globally rely on Atlassian products every day for improving software development, project management, collaboration, and code quality.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg",
+			"humanURL": "http://atlassian.com/",
+			"baseURL": "https:////",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/atlassian/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Janrain",
+			"x-api-slug": "janrain",
+			"description": "The Janrain User Management Platform (JUMP) helps organizations succeed on the social web by providing leading technology to leverage the popularity of social networks and identities for user acquisition, engagement, and enhanced customer intelligence. Our solutions, including social login, social sharing, social profile data collection and storage, access to the social graph, game mechanics, and digital strategy services, improve the effectiveness of online marketing initiatives for leading brands like Fox, Universal Music Group, Whole Foods, MTV, Purina, Avis and Dr Pepper.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/825-janrain.jpg",
+			"humanURL": "http://janrain.com",
+			"baseURL": "https:///",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/janrain/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "miiCard",
+			"x-api-slug": "miicard",
+			"description": "miiCard (My Internet Identity) is a global Identity as a Service solution that proves &lsquo;you are who you say you are&rsquo;, purely online, in minutes and to the same level as a physical passport or photo ID check. Through a patented process that leverages the trust between an individual and their financial institution, miiCard establishes identity to Level of Assurance 3+ and meets Know Your Customer and Anti-Money Laundering identity guidelines, enabling the sale of regulated products and services purely online. Combining online identity proofing with strong authentication, miiCard provides the trust and security required for people and businesses to meet and transact with confidence in a purely digital environment.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/847_logo.png",
+			"humanURL": "http://www.miicard.com",
+			"baseURL": "https:///",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/miicard/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "LoginRadius",
+			"x-api-slug": "loginradius",
+			"description": "Simplify customer authentication and authorization to amplify your business with better understanding of your audience using our customer identity management",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1086-loginradius.jpg",
+			"humanURL": "http://www.loginradius.com/",
+			"baseURL": ":///login/http://localhost:8008/_matrix/client/api/v1",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/loginradius/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "WallaBee Devs",
+			"x-api-slug": "wallabee-devs",
+			"description": "WallaBee is the ultimate collectibles game for your iPhone.The aim of the game is to complete sets by collecting items in a variety of ways. Each item and set is uniquely numbered so you&#8217;ll need to be quick if you want to beat your friends to the lowest numbers.Players &#8216;forage&#8217; at real world locations to find over 400 uniquely designed items to add to their collections, sometimes finding a real world version of it&#8217;s virtual counterpart through a number of partnerships. Players can find items at places, buy items from store using the in games currency &#8216;honeycombs&#8217;, create items by mixing other items together, trade items with friends or drop and swap at meetups.WallaBee is the first game to support Apple&#8217;s Passbook, and can incorporate scannable passes into partner items that players can redeem at participating locations. In June 2012, WallaBee was selected as &#8216;The Best European Gaming Startup&#8217; as part of the Startup 2.0 contest at Nonick 2012. Currently on iOS and coming soon to Windows Phone 8.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1213_logo.png",
+			"humanURL": "http://wallab.ee/developers/",
+			"baseURL": "https:///",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/wallabee-devs/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TrustCloud",
+			"x-api-slug": "trustcloud",
+			"description": "Trust (https://t.co/EOK0Nlf6Ns) in the Sharing Economy.We guarantee your satisfaction in sharing economy transactions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1279-trustcloud.jpg",
+			"humanURL": "https://trustcloud.com/",
+			"baseURL": "https:///",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/trustcloud/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Get Exchange Rates",
+			"x-api-slug": "get-exchange-rates",
+			"description": "Use the Free Get Exchange Rates API to convert currencies in real-time and retrieve simple currency exchange rates in JSON format.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen Shot 2017-12-26 at 8.55.01 PM.png",
+			"humanURL": "http://www.getexchangerates.com/api/",
+			"baseURL": "https:///",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/get-exchange-rates/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "BioID Web Services",
+			"x-api-slug": "bioid-web-services",
+			"description": "BioID offers unique anonymous multimodal biometric authentication services for face recognition and voice recognition with strong privacy protection. Find relevant background information on periocular eye recognition and anti-spoofing liveness detectio...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1311-bioid-web-services.jpg",
+			"humanURL": "http://www.bioid.com/products/bws/apis.html",
+			"baseURL": "https:///",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/bioid-web-services/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Digit-Eyes",
+			"x-api-slug": "digiteyes",
+			"description": "iPhone app that enables the visually-impaired and blind to identify items with QR code and UPC / EAN bar codes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1719-digit-eyes.jpg",
+			"humanURL": "http://www.digit-eyes.com/api.html",
+			"baseURL": "https:///",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/digiteyes/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Animetrics",
+			"x-api-slug": "animetrics",
+			"description": "Animetrics is a leading developer of advanced 3D face recognition applications and face identity management solutions. www.Animetrics.com",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1767-animetrics.jpg",
+			"humanURL": "http://api.animetrics.com",
+			"baseURL": "https:///",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/animetrics/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Toopher",
+			"x-api-slug": "toopher",
+			"description": "If a site is using Toopher, you put in your username and password and youre immediately sent a push notification to your phone telling you the who, what, where, and when of your login. If its you, click allow and youre automatically granted access...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1850-toopher.jpg",
+			"humanURL": "https://www.toopher.com/",
+			"baseURL": "https:///",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/toopher/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Okta",
+			"x-api-slug": "okta",
+			"description": "Provide secure identity management and single sign-on to any application, whether in the cloud, on-premises or on a mobile device for your employees, partners and customers with Okta.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1937-okta.jpg",
+			"humanURL": "https://www.okta.com",
+			"baseURL": "https://example.com//api/v1",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/okta/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "University of Warwick",
+			"x-api-slug": "university-of-warwick",
+			"description": "The official home of Warwick Students Union on Facebook. Click Like for all the latest info about events, campaigns and happenings at your SU.     Its your Union. Be part of it!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2056-university-of-warwick.jpg",
+			"humanURL": "http://www.warwicksu.com",
+			"baseURL": "https:///",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/university-of-warwick/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Next Caller",
+			"x-api-slug": "next-caller",
+			"description": "Identify inbound phone numbers and increase sales conversion with accurate real-time caller data. Accurately detect phone spoofing fraud before you pickup the phone and route your inbound calls intelligently",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2468-next-caller.jpg",
+			"humanURL": "https://nextcaller.com",
+			"baseURL": "https://api.sandbox.nextcaller.com//",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/next-caller/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Ping Identity",
+			"x-api-slug": "ping-identity",
+			"description": "Ping Identity frees the digital enterprise by providing secure access that enables the right people to access the right things, seamlessly and securely.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2679-ping-identity.jpg",
+			"humanURL": "https://www.pingidentity.com/",
+			"baseURL": "https:///",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/ping-identity/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Gluu",
+			"x-api-slug": "gluu",
+			"description": "Gluu allows Organizations to safely manage identity security. Gluu supports SAML2.0, OpenID Content, idp shibboleth, idp saml, open source sso, active directory saml. Free Trial Available.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/10213-gluu.jpg",
+			"humanURL": "http://www.gluu.org/",
+			"baseURL": "https:///",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/gluu/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Auth0",
+			"x-api-slug": "auth0",
+			"description": "The new way to solve Identity",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11272-auth0.jpg",
+			"humanURL": "https://auth0.com/",
+			"baseURL": "https://login.auth0.com//users",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/auth0/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "IBM Watson",
+			"x-api-slug": "ibm-watson",
+			"description": "Meet IBM Watson, a cognitive system that enables a new partnership between people and computers that enhances and scales human expertise. Watson has been learning the language of professions and is trained by experts to work across many different industries.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ibm-watson-logo.png",
+			"humanURL": "https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/",
+			"baseURL": "https://ibm-watson-ml.mybluemix.net/v3/",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/ibm-watson/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Centrify",
+			"x-api-slug": "centrify",
+			"description": "Centrify delivers Zero Trust Security through the power of Next-Gen Access. Secure access to apps, endpoints & infrastructure. Click for a FREE Trial!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19113-centrify-(slackbot).jpg",
+			"humanURL": "https://www.centrify.com",
+			"baseURL": "https:///",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/centrify/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Lambda",
+			"x-api-slug": "aws-lambda",
+			"description": "AWS Lambda is a zero-administration compute platform for back-end web developers that runs your code for you in the AWScloudand provides you with a fine-grained pricing structure. AWS Lambda runs your back-end code on its own AWS compute fleet of Amazon Elastic Compute Cloud (Amazon EC2) instances across multiple Availability Zones in a region, which provides the high availability, security, performance, and scalability of the AWS infrastructure.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSLambda.png",
+			"humanURL": "http://docs.aws.amazon.com/lambda/",
+			"baseURL": ":///",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/aws-lambda/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS RDS",
+			"x-api-slug": "aws-rds",
+			"description": "Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, and scale arelational databasein the cloud. It provides cost-efficient and resizable capacity while managing time-consuming database administration tasks, freeing you up to focus on your applications and business. Amazon RDS provides you six familiar database engines to choose from, includingAmazon Aurora,PostgreSQL,MySQL,MariaDB,Oracle, andMicrosoft SQL Server.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AmazonRDS.png",
+			"humanURL": "https://aws.amazon.com/rds/",
+			"baseURL": ":///",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/aws-rds/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Redshift",
+			"x-api-slug": "aws-redshift",
+			"description": "Amazon Redshift is a fast, fully managed, petabyte-scaledata warehousethat makes it simple and cost-effective to analyze all your data using your existing business intelligence tools. Start small for $0.25 per hour with no commitments and scale to petabytes for $1,000 per terabyte per year, less than a tenth the cost of traditional solutions. Customers typically see 3x compression, reducing their costs to $333 per uncompressed terabyte per year.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AmazonRedshift.png",
+			"humanURL": "https://aws.amazon.com/redshift/",
+			"baseURL": ":///",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/aws-redshift/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS CloudFront",
+			"x-api-slug": "aws-cloudfront",
+			"description": "Amazon CloudFront is a global content delivery network (CDN) service that accelerates delivery of your websites, APIs, video content or other web assets. It integrates with other Amazon Web Services products to give developers and businesses an easy way to accelerate content to end users with no minimum usage commitments.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AmazonCloudFront.png",
+			"humanURL": "https://aws.amazon.com/cloudfront/",
+			"baseURL": ":///",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/aws-cloudfront/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS EC2 Systems Manager",
+			"x-api-slug": "aws-ec2-systems-manager",
+			"description": "Amazon EC2 Systems Manager is a management service that helps you automatically collect software inventory, apply OS patches, create system images, and configure Windows and Linux operating systems. These capabilities help you define and track system configurations, prevent drift, and maintain software compliance of your EC2 and on-premises configurations. By providing a management approach that is designed for the scale and agility of the cloud but extends into your on-premises data center, EC2 Systems Manager makes it easier for you to seamlessly bridge your existing infrastructure with AWS.EC2 Systems Manager is easy to use. Simply access EC2 Systems Manager from the EC2 Management Console, select the instances you want to manage, and define the management tasks you want to perform. EC2 Systems Manager is available now at no cost to manage both your EC2 and on-premises resources.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png",
+			"humanURL": "https://aws.amazon.com/ec2/systems-manager/",
+			"baseURL": ":///",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/aws-ec2-systems-manager/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Identity and Access Management",
+			"x-api-slug": "aws-identity-and-access-management",
+			"description": "AWS Identity and Access Management (IAM) enables you to securely control access to AWS services and resources for your users. Using IAM, you can create and manage AWS users and groups, and use permissions to allow and deny their access to AWS resources.IAM is a feature of your AWS account offered at no additional charge. You will be charged only for use of other AWS services by your users.To get started using IAM, orif you have already registered with AWS, go to theAWS Management Consoleand get started with theseIAM Best Practices.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSIAM.png",
+			"humanURL": "https://aws.amazon.com/iam/",
+			"baseURL": ":///",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/aws-identity-and-access-management/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Security Token Service",
+			"x-api-slug": "aws-security-token-service",
+			"description": "The AWS Security Token Service (STS) is a web service that enables you to request temporary, limited-privilege credentials for AWS Identity and Access Management (IAM) users or for users that you authenticate (federated users).",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSIAM_AWSSTS.png",
+			"humanURL": "http://docs.aws.amazon.com/STS/latest/APIReference/Welcome.html",
+			"baseURL": ":///",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/aws-security-token-service/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Elastic MapReduce",
+			"x-api-slug": "aws-elastic-mapreduce",
+			"description": "Amazon EMR provides a managed Hadoop framework that makes it easy, fast, and cost-effective to process vast amounts of data across dynamically scalable Amazon EC2 instances. You can also run other popular distributed frameworks such as Apache Spark, HBase, Presto, and Flink in Amazon EMR, and interact with data in other AWS data stores such as Amazon S3 and Amazon DynamoDB.Amazon EMR securely and reliably handles a broad set of big data use cases, including log analysis, web indexing, data transformations (ETL), machine learning, financial analysis, scientific simulation, and bioinformatics.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonEMR.png",
+			"humanURL": "https://aws.amazon.com/emr/",
+			"baseURL": ":///",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/aws-elastic-mapreduce/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Cognito",
+			"x-api-slug": "aws-cognito",
+			"description": "Amazon Cognito lets you easily add user sign-up and sign-in to your mobile and web apps. With Amazon Cognito, you also have the options to authenticate users through social identity providers such as Facebook, Twitter, or Amazon, with SAML identity solutions, or by using your own identity system. In addition, Amazon Cognito enables you to save data locally on users devices, allowing your applications to work even when the devices are offline. You can then synchronize data across users devices so that their app experience remains consistent regardless of the device they use. With Amazon Cognito, you can focus on creating great app experiences instead of worrying about building, securing, and scaling a solution to handle user management, authentication, and sync across devices.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-cognito.png",
+			"humanURL": "https://aws.amazon.com/cognito/",
+			"baseURL": "https:///",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/aws-cognito/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Simple Email Service",
+			"x-api-slug": "aws-simple-email-service",
+			"description": "Amazon Simple Email Service (Amazon SES) is a cost-effective email service built on the reliable and scalable infrastructure that Amazon.com developed to serve its own customer base. With Amazon SES, you can send and receive email with no required minimum commitments &ndash; you pay as you go, and you only pay for what you use.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Application-Services_AmazonSES.png",
+			"humanURL": "https://aws.amazon.com/ses/",
+			"baseURL": ":///",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/aws-simple-email-service/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS EC2",
+			"x-api-slug": "aws-ec2",
+			"description": "Amazon Elastic Compute Cloud is a web service that provides resizable compute capacity in the cloud. It is designed to make web-scale cloud computing easier for developers. Amazon EC2s simple web service interface allows you to obtain and configure capacity with minimal friction. It provides you with complete control of your computing resources and lets you run on Amazon&rsquo;s proven computing environment. Amazon EC2 reduces the time required to obtain and boot new server instances to minutes, allowing you to quickly scale capacity, both up and down, as your computing requirements change. Amazon EC2 changes the economics of computing by allowing you to pay only for capacity that you actually use. Amazon EC2 provides developers the tools to build failure resilient applications and isolate themselves from common failure scenarios.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png",
+			"humanURL": "https://aws.amazon.com/ec2/",
+			"baseURL": ":///",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/aws-ec2/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Route 53",
+			"x-api-slug": "aws-route-53",
+			"description": "Amazon Route 53 is a highly available and scalable cloud Domain Name System (DNS) web service. It is designed to give developers and businesses an extremely reliable and cost effective way to route end users to Internet applications by translating names like www.example.com into the numeric IP addresses like 192.0.2.1 that computers use to connect to each other. Amazon Route 53 is fully compliant with IPv6 as well.Amazon Route 53 effectively connects user requests to infrastructure running in AWS &ndash; such as Amazon EC2 instances, Elastic Load Balancing load balancers, or Amazon S3 buckets &ndash; and can also be used to route users to infrastructure outside of AWS. You can use Amazon Route 53 to configure DNS health checks to route traffic to healthy endpoints or to independently monitor the health of your application and its endpoints. Amazon Route 53 Traffic Flow makes it easy for you to manage traffic globally through a variety of routing types, including Latency Based Routing, Geo DNS, and Weighted Round Robin&mdash;all of which can be combined with DNS Failover in order to enable a variety of low-latency, fault-tolerant architectures. Using Amazon Route 53 Traffic Flow&rsquo;s simple visual editor, you can easily manage how your end-users are routed to your application&rsquo;s endpoints&mdash;whether in a single AWS region or distributed around the globe. Amazon Route 53 also offers Domain Name Registration &ndash; you can purchase and manage domain names such as example.com and Amazon Route 53 will automatically configure DNS settings for your domains.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AmazonRoute53.png",
+			"humanURL": "https://aws.amazon.com/route53/",
+			"baseURL": ":///",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/aws-route-53/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Cloud Identity Access Management",
+			"x-api-slug": "google-cloud-identity-access-management",
+			"description": "Google Cloud Identity &amp; Access Management (IAM) lets administrators authorize who can take action on specific resources, giving you full control and visibility to manage cloud resources centrally. For established enterprises with complex organizational structures, hundreds of workgroups and potentially many more projects, Cloud IAM provides a unified view into security policy across your entire organization, with built-in auditing to ease compliance processes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/right-roles.png",
+			"humanURL": "https://cloud.google.com/iam/",
+			"baseURL": "://iam.googleapis.com//",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/google-cloud-identity-access-management/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AXA Assistance",
+			"x-api-slug": "axa-assistance",
+			"description": "AXA Assistance is a worldwide specialist for car insurance, travel, health and home services. Trust in Axa Assistance for your insurance!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28187-www-axa-assistance-com.jpg",
+			"humanURL": "https://www.axa-assistance.com",
+			"baseURL": "https://sandbox.api.axa-assistance.com//",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/axa-assistance/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Avaza",
+			"x-api-slug": "avaza",
+			"description": "Avaza is a beautiful online software suite with modules for Project Management, Timesheets, Expenses &amp; Invoicing. Access from anywhere, with any device. Avaza is the leading all-in-one software for running client focused businesses. Avaza allows businesses of all sizes to more easily and effectively manage team projects, time tracking, expense reporting, quoting &amp; invoicing. It can be accessed simply via a web browser from anywhere in the world on any device.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28373-avaza.jpg",
+			"humanURL": "https://www.avaza.com",
+			"baseURL": "https:///",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/avaza/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Rebilly",
+			"x-api-slug": "rebilly",
+			"description": "",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rebilly.png",
+			"humanURL": "https://www.rebilly.com",
+			"baseURL": "https://api.rebilly.com//v2.1",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/rebilly/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Botify",
+			"x-api-slug": "botify",
+			"description": "We are passionate about SEO. Botify offers unparalleled insights into your websites SEO through crawl data and log analysis.    Optimize your website and see the organic traffic results youve been seeking. Founded in 2012, Botify is a SaaS SEO platfo...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28561-botify.jpg",
+			"humanURL": "http://www.botify.com",
+			"baseURL": "https://api.botify.com//v1",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/botify/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Yapily",
+			"x-api-slug": "yapily",
+			"description": "Yapily is how people connect to banks, easily! We are an API Only technology provider whose mission is to enable innovative products to connect to banks, empowering a new generation of financial services.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/yapily-logo.png",
+			"humanURL": "https://www.yapily.com",
+			"baseURL": "https://api.yapily.com:443//",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/yapily/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "IBM Financial Crimes Insight for Insurance",
+			"x-api-slug": "ibm-financial-crimes-insight-for-insurance",
+			"description": "IBM&reg; Financial Crimes Insight&reg; for Insurance V3.0, formerly known as IBM Counter Fraud Management for Insurance, is now being offered as a cloud service offering. It helps organizations analyze data to determine the fraud risk of claims, medical providers, and other business entities, manage the full investigation lifecycle, and report on outcomes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/WFS-Counter-Fraud-Technical-Level-3.png",
+			"humanURL": "https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?infotype=AN&subtype=CA&htmlfid=897/ENUS218-305&appname=USN",
+			"baseURL": "https://fcihost.ibm.com:9443//",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/ibm-financial-crimes-insight-for-insurance/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dezrez",
+			"x-api-slug": "dezrez",
+			"description": "Cloud based estate agent software , sales & letting agent software, estate agent website design and property management software - Dezrez  Services",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg",
+			"humanURL": "https://www.dezrez.com",
+			"baseURL": "https://api.dezrez.com//",
+			"tags": "Identities",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/dezrez/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Identities",
+	"include": [
+		{
+			"name": "Reverb",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/reverb/apis.yaml"
+		},
+		{
+			"name": "Diffbot",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/diffbot/apis.yaml"
+		},
+		{
+			"name": "HP",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/hp/apis.yaml"
+		},
+		{
+			"name": "Rackspace",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/rackspace/apis.yaml"
+		},
+		{
+			"name": "Xignite",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/xignite/apis.yaml"
+		},
+		{
+			"name": "Orange",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/orange/apis.yaml"
+		},
+		{
+			"name": "Atlassian",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/atlassian/apis.yaml"
+		},
+		{
+			"name": "Janrain",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/janrain/apis.yaml"
+		},
+		{
+			"name": "miiCard",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/miicard/apis.yaml"
+		},
+		{
+			"name": "LoginRadius",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/loginradius/apis.yaml"
+		},
+		{
+			"name": "WallaBee Devs",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/wallabee-devs/apis.yaml"
+		},
+		{
+			"name": "TrustCloud",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/trustcloud/apis.yaml"
+		},
+		{
+			"name": "Get Exchange Rates",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/get-exchange-rates/apis.yaml"
+		},
+		{
+			"name": "BioID Web Services",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/bioid-web-services/apis.yaml"
+		},
+		{
+			"name": "Digit-Eyes",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/digiteyes/apis.yaml"
+		},
+		{
+			"name": "Animetrics",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/animetrics/apis.yaml"
+		},
+		{
+			"name": "Toopher",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/toopher/apis.yaml"
+		},
+		{
+			"name": "Okta",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/okta/apis.yaml"
+		},
+		{
+			"name": "University of Warwick",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/university-of-warwick/apis.yaml"
+		},
+		{
+			"name": "Next Caller",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/next-caller/apis.yaml"
+		},
+		{
+			"name": "Ping Identity",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/ping-identity/apis.yaml"
+		},
+		{
+			"name": "Gluu",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/gluu/apis.yaml"
+		},
+		{
+			"name": "Auth0",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/auth0/apis.yaml"
+		},
+		{
+			"name": "IBM Watson",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/ibm-watson/apis.yaml"
+		},
+		{
+			"name": "Centrify",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/centrify/apis.yaml"
+		},
+		{
+			"name": "AWS Lambda",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/aws-lambda/apis.yaml"
+		},
+		{
+			"name": "AWS RDS",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/aws-rds/apis.yaml"
+		},
+		{
+			"name": "AWS Redshift",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/aws-redshift/apis.yaml"
+		},
+		{
+			"name": "AWS CloudFront",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/aws-cloudfront/apis.yaml"
+		},
+		{
+			"name": "AWS EC2 Systems Manager",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/aws-ec2-systems-manager/apis.yaml"
+		},
+		{
+			"name": "AWS Identity and Access Management",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/aws-identity-and-access-management/apis.yaml"
+		},
+		{
+			"name": "AWS Security Token Service",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/aws-security-token-service/apis.yaml"
+		},
+		{
+			"name": "AWS Elastic MapReduce",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/aws-elastic-mapreduce/apis.yaml"
+		},
+		{
+			"name": "AWS Cognito",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/aws-cognito/apis.yaml"
+		},
+		{
+			"name": "AWS Simple Email Service",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/aws-simple-email-service/apis.yaml"
+		},
+		{
+			"name": "AWS EC2",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/aws-ec2/apis.yaml"
+		},
+		{
+			"name": "AWS Route 53",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/aws-route-53/apis.yaml"
+		},
+		{
+			"name": "Google Cloud Identity Access Management",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/google-cloud-identity-access-management/apis.yaml"
+		},
+		{
+			"name": "AXA Assistance",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/axa-assistance/apis.yaml"
+		},
+		{
+			"name": "Avaza",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/avaza/apis.yaml"
+		},
+		{
+			"name": "Rebilly",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/rebilly/apis.yaml"
+		},
+		{
+			"name": "Botify",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/botify/apis.yaml"
+		},
+		{
+			"name": "Yapily",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/yapily/apis.yaml"
+		},
+		{
+			"name": "IBM Financial Crimes Insight for Insurance",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/ibm-financial-crimes-insight-for-insurance/apis.yaml"
+		},
+		{
+			"name": "Dezrez",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/dezrez/apis.yaml"
+		}
+	]
+}

@@ -1,26 +1,16 @@
 ---
 name: Gluu
-description: 'Gluu provides open source authentication and API access management stack,
-  called the Gluu Server, helps companies secure Web and mobile applications. The
-  Gluu Server leverages standards such as OAuth2, OpenID Connect, UMA, SAML 2.0, and
-  SCIM to enable federated single sign-on (SSO) and trust elevation. The Gluu Server
-  is used by universities, government agencies, and companies to secure employee facing
-  and consumer network services. Deployed on one or more dedicated servers and the
-  IaaS platform of your choice, the Gluu Server improves the quality and drives down
-  the cost of an increasingly complex and mission critical IT service: authentication
-  and authorization (AA).'
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gluu-logo.png
+x-slug: gluu
+description: Gluu allows Organizations to safely manage identity security. Gluu supports
+  SAML2.0, OpenID Content, idp shibboleth, idp saml, open source sso, active directory
+  saml. Free Trial Available.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/10213-gluu.jpg
 x-kinRank: "8"
-x-alexaRank: ""
-tags:
-- Stack Network
-- Management
-- Identity
-- Authentication
-- API Management Other
-created: "2018-03-10"
-modified: "2018-03-10"
-url: https://raw.githubusercontent.com/streamdata-gallery/identity/master/_listings/gluu/apis.yaml
+x-alexaRank: "448719"
+tags: Identities
+created: "2018-08-27"
+modified: "2018-08-27"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/gluu/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
@@ -28,6 +18,10 @@ x-common:
   url: http://www.gluu.org/blog/
 - type: x-blog-rss
   url: http://www.gluu.org/blog/feed
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/gluu
+- type: x-email
+  url: sales@gluu.org
 - type: x-github
   url: https://github.com/GluuFederation
 - type: x-twitter

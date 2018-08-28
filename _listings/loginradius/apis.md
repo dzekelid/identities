@@ -1,28 +1,22 @@
 ---
 name: LoginRadius
-description: To keep your business ahead of current Internet trends, we at LoginRadius
-  came up with a different approach to the log-in process. Using LoginRadius, you
-  can easily integrate social logins on your website and allow users to login with
-  their existing accounts on Facebook, Google, Yahoo, Twitter and over 20 more providers.
-  By eliminating lengthy and sometimes irritating registration process, not only will
-  your website attract more traffic but also boost your user base. LoginRadius is
-  a ???Software As A Service??? (SAAS).
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1086_logo.png
+x-slug: loginradius
+description: Simplify customer authentication and authorization to amplify your business
+  with better understanding of your audience using our customer identity management
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1086-loginradius.jpg
 x-kinRank: "8"
-x-alexaRank: ""
-tags:
-- Users
-- Stack Network
-- Login
-- Identity
-- Authentication
-- Authentication
-created: "2018-03-10"
-modified: "2018-03-10"
-url: https://raw.githubusercontent.com/streamdata-gallery/identity/master/_listings/loginradius/apis.yaml
+x-alexaRank: "60839"
+tags: Identities
+created: "2018-08-27"
+modified: "2018-08-27"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/identities/master/_listings/loginradius/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
+- type: x-api-gallery
+  url: http://lloyds.bank.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://loginradius.stack.network
 - type: x-base
   url: https://api.loginradius.com
 - type: x-blog
@@ -30,9 +24,17 @@ x-common:
 - type: x-blog-rss
   url: http://blog.loginradius.com/feed/
 - type: x-crunchbase
+  url: https://crunchbase.com/organization/loginradius
+- type: x-crunchbase
   url: http://www.crunchbase.com/company/loginradius
 - type: x-developer
   url: http://www.loginradius.com/developers
+- type: x-email
+  url: privacy@loginradius.com
+- type: x-email
+  url: legal@loginradius.com
+- type: x-email
+  url: support@loginradius.com
 - type: x-github
   url: https://github.com/LoginRadius
 - type: x-pricing
